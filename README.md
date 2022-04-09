@@ -1,3 +1,3 @@
 hoge
 
-Hello,World!!
+Hello,World!
